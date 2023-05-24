@@ -1,0 +1,9 @@
+node_modules
+dist
+out
+*.log*
+extension/**/build
+extension/**/node_modules
+extension/**/x64
+extension/**/.vs
+.vscode
